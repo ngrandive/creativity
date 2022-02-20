@@ -1,2 +1,3 @@
 I am rohin
 nageshi
+create table test(srno nuimber(20).name varchar2(10));
